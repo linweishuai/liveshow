@@ -4,8 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "96dc7bbe42b043f61a2e9a3f5ea4134b",
-    "content-hash": "de43856224c6a80b062cf8956dad9bb8",
+    "hash": "9a1c2c6ad37db14ec77f1845e3e2513e",
+    "content-hash": "418669af8e4e1c7580a446ee426c507a",
     "packages": [
         {
             "name": "topthink/framework",
