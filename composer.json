@@ -1,0 +1,16 @@
+{
+    "name": "lyn/liveshow",
+    "description": "live show support by PHP",
+    "type": "project",
+    "require": {
+        "topthink/framework": "^5.0"
+    },
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "林伟帅",
+            "email": "457009680@qq.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
